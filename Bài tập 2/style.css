@@ -1,0 +1,8 @@
+body #input {
+  margin: 10px;
+}
+body #result {
+  margin: 20px;
+  font-size: 18px;
+  font-weight: 400;
+}
